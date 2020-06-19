@@ -1,0 +1,8 @@
+04:23:07.168 [main] INFO  resources.base - Navigate to the Home Page
+04:23:07.337 [main] INFO  resources.base - Successfully validated text message
+04:31:14.219 [TestNG] INFO  resources.base - Driver is initialized
+04:31:55.414 [TestNG] INFO  resources.base - Navigate to the Home Page
+04:31:56.567 [TestNG] INFO  resources.base - Successfully validated text message
+04:31:56.618 [TestNG] INFO  resources.base - Contact is displayed
+04:32:07.796 [TestNG] INFO  resources.base - text
+04:34:34.903 [TestNG] INFO  resources.base - Driver is initialized

@@ -1,0 +1,8 @@
+03:05:36.783 [TestNG] INFO  resources.base - Contact is displayed
+03:06:03.649 [TestNG] INFO  resources.base - text
+03:06:18.252 [TestNG] INFO  resources.base - text
+03:08:44.602 [main] INFO  resources.base - Driver is initialized
+03:08:48.472 [main] INFO  resources.base - Navigate to the Home Page
+03:11:03.591 [TestNG] INFO  resources.base - Driver is initialized
+03:11:17.821 [TestNG] INFO  resources.base - Navigate to the Home Page
+03:11:20.286 [TestNG] INFO  resources.base - Contact is displayed
